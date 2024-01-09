@@ -4,7 +4,7 @@ Welcome to the Image Super Resolution using ESRGAN project! We appreciate your i
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](Code_of_Conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [piyushvrm072001@gmail.com](piyushvrm072001@gmail.com).
+This project adheres to the [Contributor Covenant Code of Conduct](Code_Of_Conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [piyushvrm072001@gmail.com](piyushvrm072001@gmail.com).
 
 ## How to Contribute
 
