@@ -52,11 +52,11 @@ pip install -r requirements.txt
 
 ## Documentation
 
-For detailed documentation, including project methodology, implementation details, and evaluation results, please refer to the `docs/` directory or [Project Wiki](https://github.com/vrm-piyush/image-super-resolution-esrgan/wiki).
+For detailed documentation, including project methodology, implementation details, and evaluation results, please refer to the `docs/` directory.
 
 ## Contributing
 
-Contributions to this project are welcome. Please read the [Contributing Guidelines](CONTRIBUTING.md) for more information.
+Contributions to this project are welcome. Please read the [Contributing Guidelines](Contributing.md) for more information.
 
 ## License
 
