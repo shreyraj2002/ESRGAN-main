@@ -58,10 +58,6 @@ For detailed documentation, including project methodology, implementation detail
 
 Contributions to this project are welcome. Please read the [Contributing Guidelines](Contributing.md) for more information.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks](https://arxiv.org/abs/1809.00219)
