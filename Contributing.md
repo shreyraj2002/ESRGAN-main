@@ -4,7 +4,7 @@ Welcome to the Image Super Resolution using ESRGAN project! We appreciate your i
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [piyushvrm072001@gmail.com](piyushvrm072001@gmail.com).
+This project adheres to the [Contributor Covenant Code of Conduct](Code_of_Conduct.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [piyushvrm072001@gmail.com](piyushvrm072001@gmail.com).
 
 ## How to Contribute
 
@@ -64,10 +64,6 @@ Navigate to your forked repository on GitHub, and click the "New Pull Request" b
 ## Code Reviews
 
 All contributions are reviewed by project maintainers. Please be patient during the review process and be open to feedback and constructive criticism.
-
-## Get Help
-
-If you have any questions or need assistance, please open an issue on the GitHub repository or contact us at [email@example.com](mailto:email@example.com).
 
 ## Thank You
 
